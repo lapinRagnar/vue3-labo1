@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### les technos
+
+#### pour les favicon 👍
+https://iconscout.com/icons/puma
+
